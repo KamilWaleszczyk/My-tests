@@ -9,4 +9,8 @@ I use the **Jira** platform with **xray** test manager
 # How I test applications
 
 Each bug is described and added to the sprint
-![Zrzut ekranu (7)](https://user-images.githubusercontent.com/104514241/232498170-6fca08bd-34d5-4c5c-b27a-9c1944467ca2.png)
+![Zrzut ekranu (7)](https://user-images.githubusercontent.com/104514241/232500855-04d132a5-90af-4879-9278-2619b5e19018.png)
+![Zrzut ekranu (8)](https://user-images.githubusercontent.com/104514241/232500866-4322d217-6a7b-41f7-85fb-263492faf39c.png)
+![Zrzut ekranu (9)](https://user-images.githubusercontent.com/104514241/232500875-cea13893-38df-4a40-ae56-b2264a47b9c9.png)
+![Zrzut ekranu (11)](https://user-images.githubusercontent.com/104514241/232500884-f5aa51bf-28e5-4fc2-a1f7-fd440801c80a.png)
+![Zrzut ekranu (12)](https://user-images.githubusercontent.com/104514241/232500892-983bda9c-6cfd-45b8-b322-e04233adf79c.png)
